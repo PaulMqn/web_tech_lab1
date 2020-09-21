@@ -12,3 +12,4 @@ npm start
 ```
 ## Authors
 Alexis Freidel
+Paul Moquin
